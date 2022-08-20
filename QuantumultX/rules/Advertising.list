@@ -1,0 +1,13 @@
+;Spotify
+HOST-SUFFIX,googlesyndication.com,AdvertisingLite
+HOST-SUFFIX,app.adjust.net.in,AdvertisingLite
+HOST-SUFFIX,adjust.io,AdvertisingLite
+HOST-SUFFIX,adjust.com,AdvertisingLite
+HOST-SUFFIX,adjust.net,AdvertisingLite
+HOST-SUFFIX,adjust.world,AdvertisingLite
+HOST-SUFFIX,branch.io,AdvertisingLite
+HOST-SUFFIX,doubleclick.net,AdvertisingLite
+HOST-SUFFIX,firebaselogging-pa.googleapis.com,AdvertisingLite
+HOST-SUFFIX,udm.scorecardresearch.com,AdvertisingLite
+HOST-SUFFIX,b.scorecardresearch.com,AdvertisingLite
+HOST-SUFFIX,sb.scorecardresearch.com,AdvertisingLite
