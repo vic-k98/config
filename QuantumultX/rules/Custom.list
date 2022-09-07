@@ -16,3 +16,7 @@ HOST-SUFFIX,wikisource.org,Wikipedia
 HOST-SUFFIX,wikiversity.org,Wikipedia
 HOST-SUFFIX,wikivoyage.org,Wikipedia
 HOST-SUFFIX,wiktionary.org,Wikipedia
+
+# 机场
+DOMAIN-SUFFIX,ceilingcloud.online,Wikipedia
+DOMAIN-SUFFIX,henet.icu,Wikipedia
