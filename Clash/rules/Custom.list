@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,xmrth.vip
 DOMAIN-SUFFIX,xmrth.net
 DOMAIN-SUFFIX,console.henet.uk
 
+# IP 检测
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,bgp.he.net
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,whatismyipaddress.com
+
 # NAME: Wikipedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
