@@ -7,11 +7,14 @@ HOST-SUFFIX,xmrth.vip,Airport
 HOST-SUFFIX,xmrth.net,Airport
 HOST-SUFFIX,console.henet.uk,Airport
 
+#公益服
+DOMAIN-SUFFIX,cf2.misakaf.org,Emby
+
 # IP 检测
-DOMAIN-SUFFIX,whoer.net,Airport
-DOMAIN-SUFFIX,bgp.he.net,Airport
-DOMAIN-SUFFIX,ipinfo.io,Airport
-DOMAIN-SUFFIX,whatismyipaddress.com,Airport
+DOMAIN-SUFFIX,whoer.net,IPinfo
+DOMAIN-SUFFIX,bgp.he.net,IPinfo
+DOMAIN-SUFFIX,ipinfo.io,IPinfo
+DOMAIN-SUFFIX,whatismyipaddress.com,IPinfo
 
 # NAME: Wikipedia
 # AUTHOR: blackmatrix7
