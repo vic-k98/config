@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,whoer.net,IPinfo
 DOMAIN-SUFFIX,bgp.he.net,IPinfo
 DOMAIN-SUFFIX,ipinfo.io,IPinfo
 DOMAIN-SUFFIX,whatismyipaddress.com,IPinfo
+
+# 其他
+DOMAIN-SUFFIX,bit.ly
