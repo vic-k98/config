@@ -1,17 +1,17 @@
 # 机场
-DOMAIN-SUFFIX,ceilingcloud.online
-DOMAIN-SUFFIX,networks.sled.lol
-DOMAIN-SUFFIX,henet.icu
-DOMAIN-SUFFIX,xmrth.com
-DOMAIN-SUFFIX,xmrth.vip
-DOMAIN-SUFFIX,xmrth.net
-DOMAIN-SUFFIX,console.henet.uk
-
-#公益服
-DOMAIN-SUFFIX,cf2.misakaf.org
+HOST-SUFFIX,ceilingcloud.online
+HOST-SUFFIX,networks.sled.lol
+HOST-SUFFIX,henet.icu
+HOST-SUFFIX,xmrth.com
+HOST-SUFFIX,xmrth.vip
+HOST-SUFFIX,xmrth.net
+HOST-SUFFIX,console.henet.uk
 
 # IP 检测
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,bgp.he.net
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whatismyipaddress.com
+
+# 其他
+DOMAIN-SUFFIX,bit.ly
