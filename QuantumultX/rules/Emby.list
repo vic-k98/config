@@ -1,7 +1,7 @@
 # MisakaF
-DOMAIN-SUFFIX,cf2.misakaf.org,Emby
+HOST-SUFFIX,cf2.misakaf.org,Emby
 
 # 鹅城海外/挂梯线路
-DOMAIN-SUFFIX,vipint.the98.ltd,Emby
-DOMAIN-SUFFIX,qbint.the98.ltd,Emby
-DOMAIN-SUFFIX,hsint.the98.ltd,Emby
+HOST-SUFFIX,vipint.the98.ltd,Emby
+HOST-SUFFIX,qbint.the98.ltd,Emby
+HOST-SUFFIX,hsint.the98.ltd,Emby
