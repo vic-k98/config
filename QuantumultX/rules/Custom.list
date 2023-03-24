@@ -15,3 +15,5 @@ HOST-SUFFIX,whatismyipaddress.com,IPinfo
 
 # 其他
 HOST-SUFFIX,bit.ly,Other
+HOST-SUFFIX,raw.githubusercontent.com,Other
+HOST-SUFFIX,openai.com,Other
