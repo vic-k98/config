@@ -5,7 +5,11 @@ DOMAIN-SUFFIX,henet.icu
 DOMAIN-SUFFIX,xmrth.com
 DOMAIN-SUFFIX,xmrth.vip
 DOMAIN-SUFFIX,xmrth.net
+DOMAIN-SUFFIX,xmrth.shop
 DOMAIN-SUFFIX,console.henet.uk
+
+# VPS
+DOMAIN-SUFFIX,vultr.com
 
 # IP 检测
 DOMAIN-SUFFIX,whoer.net
