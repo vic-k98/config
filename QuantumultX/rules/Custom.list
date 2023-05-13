@@ -9,7 +9,8 @@ HOST-SUFFIX,xmrth.shop,Airport
 HOST-SUFFIX,console.henet.uk,Airport
 
 # VPS
-HOST-SUFFIX,vultr.com
+HOST-SUFFIX,vultr.com,VPS
+
 
 # IP 检测
 HOST-SUFFIX,whoer.net,IPinfo
