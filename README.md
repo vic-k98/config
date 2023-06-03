@@ -4,7 +4,7 @@
 1999G 2元/月，解锁流媒体：Netfilx（SG)/ Disney Plus
 
 ## https://xmrth.vip/auth/register?code=eCZL
-5元/月 直连节点（低价节点没有经常断）
+5元/月 直连节点（低价节点好像没有维护经常断）
 
 ## https://xn--4gq62f52gdss.com/#/register?code=RkFnfOIM
 一元机场：年付 11 元，每月 100G（首月500G）不限速
