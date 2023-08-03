@@ -8,10 +8,10 @@ HOST-SUFFIX,xmrth.net,Airport
 HOST-SUFFIX,xmrth.shop,Airport
 HOST-SUFFIX,console.henet.uk,Airport
 HOST-SUFFIX,console.henet.uk,Airport
-HOST-SUFFIX,https://v2.nanoport.xyz,Airport
-HOST-SUFFIX,https://v3.nanoport.xyz,Airport
-HOST-SUFFIX,https://v4.nanoport.xyz,Airport
-HOST-SUFFIX,https://v5.nanoport.xyz,Airport
+HOST-SUFFIX,v2.nanoport.xyz,Airport
+HOST-SUFFIX,v3.nanoport.xyz,Airport
+HOST-SUFFIX,v4.nanoport.xyz,Airport
+HOST-SUFFIX,v5.nanoport.xyz,Airport
 
 # VPS
 HOST-SUFFIX,vultr.com,VPS
