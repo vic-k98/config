@@ -16,7 +16,6 @@ HOST-SUFFIX,v5.nanoport.xyz,Airport
 # VPS
 HOST-SUFFIX,vultr.com,VPS
 
-
 # IP 检测
 HOST-SUFFIX,whoer.net,IPinfo
 HOST-SUFFIX,bgp.he.net,IPinfo
@@ -25,5 +24,3 @@ HOST-SUFFIX,whatismyipaddress.com,IPinfo
 
 # 其他
 HOST-SUFFIX,bit.ly,Other
-HOST-SUFFIX,raw.githubusercontent.com,Other
-HOST-SUFFIX,openai.com,Other
